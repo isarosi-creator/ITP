@@ -1,0 +1,2 @@
+To start the code I basically copied the line from the codealong in class and changed the range to 0-100
+then i started with an if the number divisible by 3 and 15 say fizz buzz, then i chained else/ifs for just fizz for 3 and just buzz for 5
